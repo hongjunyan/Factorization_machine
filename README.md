@@ -1,5 +1,5 @@
 # Factorization Machine Jupyter Tutorial
-Use Pytorch to implement FM, DeepFM and FFM for recommended movies
+Use Pytorch to implement FM, DeepFM and FFM for movie recommendation
 
 ### Environment
 pytorch: 1.4.0, CUDA version:10.1
