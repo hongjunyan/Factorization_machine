@@ -1,4 +1,4 @@
-# Factorization_machine Jupyter Tutorial
+# Factorization Machine Jupyter Tutorial
 Implementing FM, DeepFM and FFM Using Pytorch For Movie Recommendation
 
 ### Environment
